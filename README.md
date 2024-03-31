@@ -1,7 +1,7 @@
-# 初じめまして 👋(,,・ω・,,) 
+# 初じめまして 👋(,,・ω・,,)
 ![Visitors](https://komarev.com/ghpvc/?username=painfulexistence&label=Visitors%20&color=daf7a6&style=flat)
-[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=flat&logo=substack&logoColor=FFFFFF)](https://painfulexistence.substack.com/)
 [![Twitter](https://img.shields.io/twitter/follow/DevLucidum.svg?style=social)](https://twitter.com/intent/follow?screen_name=DevLucidum)
+[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=flat&logo=substack&logoColor=ffffff&label=Arcane%20Realms)](https://painfulexistence.substack.com/)
 <br />
 <br />
 
