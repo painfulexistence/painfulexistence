@@ -1,13 +1,22 @@
-# Hello (,,・ω・,,) ![visitors](https://komarev.com/ghpvc/?username=painfulexistence&label=visitors%20&color=daf7a6&style=flat)
+# 初じめまして 👋(,,・ω・,,) 
+![Visitors](https://komarev.com/ghpvc/?username=painfulexistence&label=Visitors%20&color=daf7a6&style=flat)
+[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=flat&logo=substack&logoColor=FFFFFF)](https://painfulexistence.substack.com/)
+[![Twitter](https://img.shields.io/twitter/follow/DevLucidum.svg?style=social)](https://twitter.com/intent/follow?screen_name=DevLucidum)
+<br />
+<br />
 
-My name is Loïc Chen
+𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙻𝚘ï𝚌
 
-I'm an enthusiastic Graphics Programmer / Game Developer 👨‍💻 from Taiwan 
+𝙸'𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚁𝚎𝚗𝚍𝚎𝚛𝚒𝚗𝚐 𝚊𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚏𝚛𝚘𝚖 𝚃𝚊𝚒𝚠𝚊𝚗🧋 <br />
+𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚊 [𝚌𝚞𝚛𝚛𝚎𝚗𝚝-𝚐𝚎𝚗 𝟹𝙳 𝚐𝚊𝚖𝚎 𝚎𝚗𝚐𝚒𝚗𝚎](https://github.com/painfulexistence/project-vapor.git) 🎮
+<br />
+<br />
 
+# 𝐒𝐤𝐢𝐥𝐥𝐬✨
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB)
+![Rails](https://img.shields.io/badge/Rails-CC0000.svg?logo=ruby-on-rails&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=WebAssembly&logoColor=white)
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=painfulexistence&)
-
-
-# Language & Tools:
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
